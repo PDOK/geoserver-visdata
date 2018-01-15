@@ -1,0 +1,38 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--7fff45c0:160f9dec54a:-3d34</id>
+  <name>overigbouwwerk_polygon</name>
+  <nativeName>overigbouwwerk_polygon</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-74e129c7:15d35fbfd50:-7eb8</id>
+  </namespace>
+  <title>overigbouwwerk_polygon</title>
+  <keywords>
+    <string>features</string>
+    <string>overigbouwwerk_polygon</string>
+  </keywords>
+  <srs>EPSG:28992</srs>
+  <nativeBoundingBox>
+    <minx>112577.499</minx>
+    <maxx>205167.454</maxx>
+    <miny>449914.386</miny>
+    <maxy>491386.243</maxy>
+    <crs class="projected">EPSG:28992</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>4.7648123856838165</minx>
+    <maxx>6.125535672996067</maxx>
+    <miny>52.035481000513926</miny>
+    <maxy>52.41047974357285</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-74e129c7:15d35fbfd50:-7eb6</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

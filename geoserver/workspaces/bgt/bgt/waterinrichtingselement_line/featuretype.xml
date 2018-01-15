@@ -1,0 +1,38 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--7fff45c0:160fa0153a3:79dd</id>
+  <name>waterinrichtingselement_line</name>
+  <nativeName>waterinrichtingselement_line</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-74e129c7:15d35fbfd50:-7eb8</id>
+  </namespace>
+  <title>waterinrichtingselement_line</title>
+  <keywords>
+    <string>features</string>
+    <string>waterinrichtingselement_line</string>
+  </keywords>
+  <srs>EPSG:28992</srs>
+  <nativeBoundingBox>
+    <minx>112759.366</minx>
+    <maxx>141431.106</maxx>
+    <miny>449911.045</miny>
+    <maxy>491177.231</maxy>
+    <crs class="projected">EPSG:28992</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>4.767511326777803</minx>
+    <maxx>5.1905096220889115</maxx>
+    <miny>52.03611395586565</miny>
+    <maxy>52.408447490573955</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-74e129c7:15d35fbfd50:-7eb6</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

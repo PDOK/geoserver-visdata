@@ -1,0 +1,38 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--7fff45c0:160f9dec54a:-3d30</id>
+  <name>overigescheiding_polygon</name>
+  <nativeName>overigescheiding_polygon</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-74e129c7:15d35fbfd50:-7eb8</id>
+  </namespace>
+  <title>overigescheiding_polygon</title>
+  <keywords>
+    <string>features</string>
+    <string>overigescheiding_polygon</string>
+  </keywords>
+  <srs>EPSG:28992</srs>
+  <nativeBoundingBox>
+    <minx>117557.299</minx>
+    <maxx>133552.436</maxx>
+    <miny>451819.466</miny>
+    <maxy>482567.915</maxy>
+    <crs class="projected">EPSG:28992</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>4.838975855153543</minx>
+    <maxx>5.075565953421165</maxx>
+    <miny>52.05361109290349</miny>
+    <maxy>52.33082028341139</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-74e129c7:15d35fbfd50:-7eb6</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

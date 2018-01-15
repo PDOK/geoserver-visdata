@@ -1,0 +1,51 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--7fff45c0:160fa154b3e:29dc</id>
+  <name>Terrain</name>
+  <mode>SINGLE</mode>
+  <title>Terrain</title>
+  <abstractTxt>Alle terreindelen</abstractTxt>
+  <workspace>
+    <id>WorkspaceInfoImpl-74e129c7:15d35fbfd50:-7eb7</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--7fff45c0:160f9dec54a:-3d35</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--7fff45c0:160f9dec54a:-3d25</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--7fff45c0:160f9dec54a:-3d3b</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--7fff45c0:160f9dec54a:-3d41</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--7fff45c0:160f9dec54a:-3d3d</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--7fff45c0:160f9c62d7f:c90</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--7fff45c0:160f9c62d7f:c90</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--7fff45c0:160f98037c0:1e65</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--7fff45c0:160f98037c0:1e65</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--7fff45c0:160f9c62d7f:c90</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>634.5732789819012</minx>
+    <maxx>284300.0254094796</maxx>
+    <miny>306594.5543000576</miny>
+    <maxy>636981.7698870846</maxy>
+    <crs class="projected">EPSG:28992</crs>
+  </bounds>
+</layerGroup>

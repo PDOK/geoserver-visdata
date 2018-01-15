@@ -1,0 +1,38 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--7fff45c0:160f9dec54a:-3d2c</id>
+  <name>scheiding_line</name>
+  <nativeName>scheiding_line</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-74e129c7:15d35fbfd50:-7eb8</id>
+  </namespace>
+  <title>scheiding_line</title>
+  <keywords>
+    <string>features</string>
+    <string>scheiding_line</string>
+  </keywords>
+  <srs>EPSG:28992</srs>
+  <nativeBoundingBox>
+    <minx>112301.943</minx>
+    <maxx>205536.693</maxx>
+    <miny>449155.118</miny>
+    <maxy>491614.163</maxy>
+    <crs class="projected">EPSG:28992</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>4.760733947989146</minx>
+    <maxx>6.130995985633847</maxx>
+    <miny>52.02862353074645</miny>
+    <maxy>52.41252783765748</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-74e129c7:15d35fbfd50:-7eb6</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

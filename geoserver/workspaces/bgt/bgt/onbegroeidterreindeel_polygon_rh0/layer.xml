@@ -1,0 +1,40 @@
+<layer>
+  <name>onbegroeidterreindeel_polygon_rh0</name>
+  <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e5e</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e63</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e62</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e61</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e60</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-74e129c7:15d35fbfd50:-7e5f</id>
+  </resource>
+  <queryable>true</queryable>
+  <opaque>false</opaque>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <authorityURLs>
+    <AuthorityURL>
+      <name>kadaster</name>
+      <href>http://www.kadaster.nl</href>
+    </AuthorityURL>
+  </authorityURLs>
+  <identifiers>
+    <Identifier>
+      <authority>kadaster</authority>
+      <identifier></identifier>
+    </Identifier>
+  </identifiers>
+</layer>

@@ -1,0 +1,38 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--7fff45c0:160f9dec54a:-3d3a</id>
+  <name>ondersteunendwaterdeel_polygon</name>
+  <nativeName>ondersteunendwaterdeel_polygon</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-74e129c7:15d35fbfd50:-7eb8</id>
+  </namespace>
+  <title>ondersteunendwaterdeel_polygon</title>
+  <keywords>
+    <string>features</string>
+    <string>ondersteunendwaterdeel_polygon</string>
+  </keywords>
+  <srs>EPSG:28992</srs>
+  <nativeBoundingBox>
+    <minx>111689.433</minx>
+    <maxx>205261.926</maxx>
+    <miny>448844.168</miny>
+    <maxy>491688.527</maxy>
+    <crs class="projected">EPSG:28992</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>4.751722818870953</minx>
+    <maxx>6.126969255316337</maxx>
+    <miny>52.02585384466946</miny>
+    <maxy>52.41319918578426</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-74e129c7:15d35fbfd50:-7eb6</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

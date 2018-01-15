@@ -1,0 +1,38 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--7fff45c0:160f9dec54a:-3d3e</id>
+  <name>kunstwerkdeel_polygon</name>
+  <nativeName>kunstwerkdeel_polygon</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-74e129c7:15d35fbfd50:-7eb8</id>
+  </namespace>
+  <title>kunstwerkdeel_polygon</title>
+  <keywords>
+    <string>features</string>
+    <string>kunstwerkdeel_polygon</string>
+  </keywords>
+  <srs>EPSG:28992</srs>
+  <nativeBoundingBox>
+    <minx>112548.246</minx>
+    <maxx>204337.778</maxx>
+    <miny>449811.336</miny>
+    <maxy>491500.509</maxy>
+    <crs class="projected">EPSG:28992</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>4.764368038727767</minx>
+    <maxx>6.113360386953544</maxx>
+    <miny>52.034629317720324</miny>
+    <maxy>52.411509583501186</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-74e129c7:15d35fbfd50:-7eb6</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

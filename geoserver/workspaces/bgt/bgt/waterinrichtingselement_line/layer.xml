@@ -1,0 +1,15 @@
+<layer>
+  <name>waterinrichtingselement_line</name>
+  <id>LayerInfoImpl--7fff45c0:160fa0153a3:79de</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--7fff45c0:160f9276f91:-7ffc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--7fff45c0:160fa0153a3:79dd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

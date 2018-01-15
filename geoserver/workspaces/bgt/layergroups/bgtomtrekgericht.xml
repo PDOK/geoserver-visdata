@@ -1,0 +1,261 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-74e129c7:15d35fbfd50:-7d75</id>
+  <name>bgtomtrekgericht</name>
+  <mode>SINGLE</mode>
+  <title>bgtomtrekgericht</title>
+  <abstractTxt>bgtomtrekgericht</abstractTxt>
+  <workspace>
+    <id>WorkspaceInfoImpl-74e129c7:15d35fbfd50:-7eb7</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e3f</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e36</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e53</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7da2</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7dba</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e1e</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e48</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7d8f</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7dc8</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7df7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e8e</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e15</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e6b</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e7c</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e74</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7ddb</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7de3</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e05</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e0d</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e3d</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e34</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e51</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7da0</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7db8</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e1c</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e46</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7d8d</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7dc6</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7df5</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e8c</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e13</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e69</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e7a</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e72</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7dd9</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7de1</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e03</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e0b</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7dee</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e25</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e42</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e39</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e56</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7da5</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7dbd</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e21</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e4b</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7d92</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7dcc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7dfb</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e92</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e19</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e6f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e80</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e77</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7dde</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7de6</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e09</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e11</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e42</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e39</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e56</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7da5</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7dbd</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e21</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e4b</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7d92</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7dcc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7dfb</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e92</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e19</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e6f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e80</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e77</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7dde</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7de6</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e09</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e11</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7df1</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e28</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-5.8127940541E7</minx>
+    <maxx>1.1982248276E7</maxx>
+    <miny>-4.9497276813E7</miny>
+    <maxy>6509523.067</maxy>
+    <crs class="projected">EPSG:28992</crs>
+  </bounds>
+</layerGroup>

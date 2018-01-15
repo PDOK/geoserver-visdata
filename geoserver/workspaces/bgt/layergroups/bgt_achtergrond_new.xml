@@ -1,0 +1,40 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--7fff45c0:160f9dec54a:-3d20</id>
+  <name>bgt_achtergrond_new</name>
+  <mode>SINGLE</mode>
+  <title>bgt_achtergrond_new</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-74e129c7:15d35fbfd50:-7eb7</id>
+  </workspace>
+  <publishables>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl--7fff45c0:160fa154b3e:29db</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl--7fff45c0:160fa154b3e:29dc</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl--7fff45c0:160fa154b3e:29dd</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl--7fff45c0:160fa154b3e:29de</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl--7fff45c0:160fa477417:48da</id>
+    </published>
+  </publishables>
+  <styles>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+  </styles>
+  <bounds>
+    <minx>109889.54254147591</minx>
+    <maxx>207364.2074995527</maxx>
+    <miny>447943.6398540443</miny>
+    <maxy>493631.08468585316</maxy>
+    <crs class="projected">EPSG:28992</crs>
+  </bounds>
+</layerGroup>

@@ -1,0 +1,29 @@
+<layer>
+  <name>functioneelgebied_vlakken_rh0</name>
+  <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7e98</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7e9a</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-74e129c7:15d35fbfd50:-7e99</id>
+  </resource>
+  <queryable>true</queryable>
+  <opaque>false</opaque>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <authorityURLs>
+    <AuthorityURL>
+      <name>kadaster</name>
+      <href>http://www.kadaster.nl</href>
+    </AuthorityURL>
+  </authorityURLs>
+  <identifiers>
+    <Identifier>
+      <authority>kadaster</authority>
+      <identifier></identifier>
+    </Identifier>
+  </identifiers>
+</layer>

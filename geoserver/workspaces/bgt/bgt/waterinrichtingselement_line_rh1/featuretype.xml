@@ -1,0 +1,67 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-74e129c7:15d35fbfd50:-7d9c</id>
+  <name>waterinrichtingselement_line_rh1</name>
+  <nativeName>waterinrichtingselement_line_rh1</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-74e129c7:15d35fbfd50:-7eb8</id>
+  </namespace>
+  <title>waterinrichtingselement</title>
+  <abstract>waterinrichtingselement</abstract>
+  <keywords>
+    <string>features</string>
+    <string>waterinrichtingselement_line_rh1</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>TC211</metadataType>
+      <content>http://www.nationaalgeoregister.nl/geonetwork/srv/dut/xml.metadata.get?uuid=2cb4769c-b56e-48fa-8685-c48f61b9a319</content>
+    </metadataLink>
+  </metadataLinks>
+  <nativeCRS class="projected">PROJCS[&quot;Amersfoort / RD New&quot;, 
+  GEOGCS[&quot;Amersfoort&quot;, 
+    DATUM[&quot;Amersfoort&quot;, 
+      SPHEROID[&quot;Bessel 1841&quot;, 6377397.155, 299.1528128, AUTHORITY[&quot;EPSG&quot;,&quot;7004&quot;]], 
+      TOWGS84[565.2369, 50.0087, 465.658, -0.40685733032239757, -0.3507326765425626, 1.8703473836067959, 4.0812], 
+      AUTHORITY[&quot;EPSG&quot;,&quot;6289&quot;]], 
+    PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+    UNIT[&quot;degree&quot;, 0.017453292519943295], 
+    AXIS[&quot;Geodetic longitude&quot;, EAST], 
+    AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;4289&quot;]], 
+  PROJECTION[&quot;Oblique_Stereographic&quot;], 
+  PARAMETER[&quot;central_meridian&quot;, 5.387638888888891], 
+  PARAMETER[&quot;latitude_of_origin&quot;, 52.15616055555556], 
+  PARAMETER[&quot;scale_factor&quot;, 0.9999079], 
+  PARAMETER[&quot;false_easting&quot;, 155000.0], 
+  PARAMETER[&quot;false_northing&quot;, 463000.0], 
+  UNIT[&quot;m&quot;, 1.0], 
+  AXIS[&quot;Easting&quot;, EAST], 
+  AXIS[&quot;Northing&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;28992&quot;]]</nativeCRS>
+  <srs>EPSG:28992</srs>
+  <nativeBoundingBox>
+    <minx>73389.255</minx>
+    <maxx>185530.916</maxx>
+    <miny>403313.889</miny>
+    <maxy>546253.837</maxy>
+    <crs class="projected">EPSG:28992</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>4.1754620935943185</minx>
+    <maxx>5.842027626259171</maxx>
+    <miny>51.61295815051481</miny>
+    <maxy>52.90358142225511</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-74e129c7:15d35fbfd50:-7eb6</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

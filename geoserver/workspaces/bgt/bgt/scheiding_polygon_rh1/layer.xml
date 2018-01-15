@@ -1,0 +1,40 @@
+<layer>
+  <name>scheiding_polygon_rh1</name>
+  <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7dd9</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7de0</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7ddf</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7ddd</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7dde</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-74e129c7:15d35fbfd50:-7dda</id>
+  </resource>
+  <queryable>true</queryable>
+  <opaque>false</opaque>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <authorityURLs>
+    <AuthorityURL>
+      <name>kadaster</name>
+      <href>http://www.kadaster.nl</href>
+    </AuthorityURL>
+  </authorityURLs>
+  <identifiers>
+    <Identifier>
+      <authority>kadaster</authority>
+      <identifier></identifier>
+    </Identifier>
+  </identifiers>
+</layer>
