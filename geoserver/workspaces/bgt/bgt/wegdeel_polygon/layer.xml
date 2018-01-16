@@ -5,6 +5,11 @@
   <defaultStyle>
     <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7d91</id>
   </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--7fff45c0:160f95b2e02:341b</id>
+    </style>
+  </styles>
   <resource class="featureType">
     <id>FeatureTypeInfoImpl--7fff45c0:160f9dec54a:-3d22</id>
   </resource>
