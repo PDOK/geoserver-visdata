@@ -3,13 +3,8 @@
   <id>LayerInfoImpl-74e129c7:15d35fbfd50:-7ea5</id>
   <type>VECTOR</type>
   <defaultStyle>
-    <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7ea8</id>
+    <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7ea7</id>
   </defaultStyle>
-  <styles class="linked-hash-set">
-    <style>
-      <id>StyleInfoImpl-74e129c7:15d35fbfd50:-7ea7</id>
-    </style>
-  </styles>
   <resource class="featureType">
     <id>FeatureTypeInfoImpl-74e129c7:15d35fbfd50:-7ea6</id>
   </resource>
@@ -19,16 +14,4 @@
     <logoWidth>0</logoWidth>
     <logoHeight>0</logoHeight>
   </attribution>
-  <authorityURLs>
-    <AuthorityURL>
-      <name>kadaster</name>
-      <href>http://www.kadaster.nl</href>
-    </AuthorityURL>
-  </authorityURLs>
-  <identifiers>
-    <Identifier>
-      <authority>kadaster</authority>
-      <identifier></identifier>
-    </Identifier>
-  </identifiers>
 </layer>

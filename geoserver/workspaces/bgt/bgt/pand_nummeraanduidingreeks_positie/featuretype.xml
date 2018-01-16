@@ -1,23 +1,15 @@
 <featureType>
-  <id>FeatureTypeInfoImpl-74e129c7:15d35fbfd50:-7ea6</id>
-  <name>begroeidterreindeel_kruinlijn_line</name>
-  <nativeName>begroeidterreindeel_kruinlijn_line</nativeName>
+  <id>FeatureTypeInfoImpl--7fff45c0:160fa477417:48d8</id>
+  <name>pand_nummeraanduidingreeks_positie</name>
+  <nativeName>pand_nummeraanduidingreeks_positie</nativeName>
   <namespace>
     <id>NamespaceInfoImpl-74e129c7:15d35fbfd50:-7eb8</id>
   </namespace>
-  <title>begroeidterreindeel_kruinlijn_line</title>
-  <abstract>begroeidterreindeel_kruinlijn_line</abstract>
+  <title>pand_nummeraanduidingreeks_positie</title>
   <keywords>
     <string>features</string>
-    <string>begroeidterreindeel_kruinlijn_line</string>
+    <string>pand_nummeraanduidingreeks_positie</string>
   </keywords>
-  <metadataLinks>
-    <metadataLink>
-      <type>text/plain</type>
-      <metadataType>TC211</metadataType>
-      <content>http://www.nationaalgeoregister.nl/geonetwork/srv/dut/xml.metadata.get?uuid=2cb4769c-b56e-48fa-8685-c48f61b9a319</content>
-    </metadataLink>
-  </metadataLinks>
   <nativeCRS class="projected">PROJCS[&quot;Amersfoort / RD New&quot;, &#xd;
   GEOGCS[&quot;Amersfoort&quot;, &#xd;
     DATUM[&quot;Amersfoort&quot;, &#xd;
@@ -41,17 +33,17 @@
   AUTHORITY[&quot;EPSG&quot;,&quot;28992&quot;]]</nativeCRS>
   <srs>EPSG:28992</srs>
   <nativeBoundingBox>
-    <minx>112715.416</minx>
-    <maxx>205533.428</maxx>
-    <miny>449507.929</miny>
-    <maxy>491580.33</maxy>
+    <minx>112550.788</minx>
+    <maxx>205163.692</maxx>
+    <miny>449916.136</miny>
+    <maxy>491398.757</maxy>
     <crs class="projected">EPSG:28992</crs>
   </nativeBoundingBox>
   <latLonBoundingBox>
-    <minx>4.766814678934581</minx>
-    <maxx>6.130942904656824</maxx>
-    <miny>52.031794719125905</miny>
-    <maxy>52.41222225449427</maxy>
+    <minx>4.764418271105642</minx>
+    <maxx>6.1254822627453205</maxx>
+    <miny>52.035497069175584</miny>
+    <maxy>52.410592320783</maxy>
     <crs>EPSG:4326</crs>
   </latLonBoundingBox>
   <projectionPolicy>FORCE_DECLARED</projectionPolicy>

@@ -1,23 +1,15 @@
 <featureType>
-  <id>FeatureTypeInfoImpl-74e129c7:15d35fbfd50:-7ea6</id>
-  <name>begroeidterreindeel_kruinlijn_line</name>
-  <nativeName>begroeidterreindeel_kruinlijn_line</nativeName>
+  <id>FeatureTypeInfoImpl--7fff45c0:160fa477417:48db</id>
+  <name>openbareruimtelabel_positie</name>
+  <nativeName>openbareruimtelabel_positie</nativeName>
   <namespace>
     <id>NamespaceInfoImpl-74e129c7:15d35fbfd50:-7eb8</id>
   </namespace>
-  <title>begroeidterreindeel_kruinlijn_line</title>
-  <abstract>begroeidterreindeel_kruinlijn_line</abstract>
+  <title>openbareruimtelabel_positie</title>
   <keywords>
     <string>features</string>
-    <string>begroeidterreindeel_kruinlijn_line</string>
+    <string>openbareruimtelabel_positie</string>
   </keywords>
-  <metadataLinks>
-    <metadataLink>
-      <type>text/plain</type>
-      <metadataType>TC211</metadataType>
-      <content>http://www.nationaalgeoregister.nl/geonetwork/srv/dut/xml.metadata.get?uuid=2cb4769c-b56e-48fa-8685-c48f61b9a319</content>
-    </metadataLink>
-  </metadataLinks>
   <nativeCRS class="projected">PROJCS[&quot;Amersfoort / RD New&quot;, &#xd;
   GEOGCS[&quot;Amersfoort&quot;, &#xd;
     DATUM[&quot;Amersfoort&quot;, &#xd;
@@ -41,17 +33,17 @@
   AUTHORITY[&quot;EPSG&quot;,&quot;28992&quot;]]</nativeCRS>
   <srs>EPSG:28992</srs>
   <nativeBoundingBox>
-    <minx>112715.416</minx>
-    <maxx>205533.428</maxx>
-    <miny>449507.929</miny>
-    <maxy>491580.33</maxy>
+    <minx>112550.197</minx>
+    <maxx>205160.824</maxx>
+    <miny>449918.358</miny>
+    <maxy>491396.468</maxy>
     <crs class="projected">EPSG:28992</crs>
   </nativeBoundingBox>
   <latLonBoundingBox>
-    <minx>4.766814678934581</minx>
-    <maxx>6.130942904656824</maxx>
-    <miny>52.031794719125905</miny>
-    <maxy>52.41222225449427</maxy>
+    <minx>4.764409875696794</minx>
+    <maxx>6.125439774966678</maxx>
+    <miny>52.03551729900128</miny>
+    <maxy>52.410571760627334</maxy>
     <crs>EPSG:4326</crs>
   </latLonBoundingBox>
   <projectionPolicy>FORCE_DECLARED</projectionPolicy>
